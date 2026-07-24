@@ -16,7 +16,7 @@ A modular, console-based **Movie Ticket Booking System** written in C. Developed
 
 ---
 
-##  System Architecture & File Flow
+## 🏗️ System Architecture & File Flow
 
 The application is broken down into independent modules that link directly back to the core execution engine:
 
@@ -37,4 +37,3 @@ The application is broken down into independent modules that link directly back 
                            ┌──────────────────┐
                            │    reports.c     │ ◄─── (Member 5 - Utility & Reports)
                            └──────────────────┘
-
